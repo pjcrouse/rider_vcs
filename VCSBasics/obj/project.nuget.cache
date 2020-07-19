@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bk3mGXJj+mzEfdC0EcSVaNQtlOwX8UOiXTADRXSJH/88xyHsGoTIcvLuRvysr3XWmlFCvvEh4L7tYx/4rTcTQw==",
+  "success": true,
+  "projectFilePath": "/Users/pat/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/VCSBasics.csproj",
+  "expectedPackageFiles": [
+    "/Users/pat/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/pat/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/pat/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/pat/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/pat/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/pat/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/pat/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
